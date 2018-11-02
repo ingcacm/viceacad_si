@@ -84,6 +84,7 @@ DATABASES = {
         'NAME': 'comisiones',
 	'USER': 'comisiones',
 	'PASSWORD':'cOm1sioN3s',
+    'HOST': '10.20.200.12',
     }
 }
 
